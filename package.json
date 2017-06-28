@@ -1,0 +1,15 @@
+{
+  "name": "example1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webdriver_async.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^2.24.1",
+    "selenium-webdriver": "3.4.0"
+  }
+}
